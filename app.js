@@ -1,7 +1,3 @@
-const msg = 'app start!';
-const person = 'LinLi';
-const sayHello = function(person, msg) {
-  return '${person} say ${msg} to you.'
-};
+const msg='app start!'
+console.log(msg);
 
-console.log(sayHello(person, msg));
